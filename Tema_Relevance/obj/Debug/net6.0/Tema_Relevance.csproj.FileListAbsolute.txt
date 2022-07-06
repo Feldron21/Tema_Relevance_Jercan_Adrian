@@ -1,0 +1,15 @@
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.csproj.AssemblyReference.cache
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.AssemblyInfoInputs.cache
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.AssemblyInfo.cs
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.csproj.CoreCompileInputs.cache
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\bin\Debug\net6.0\Tema_Relevance.exe
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\bin\Debug\net6.0\Tema_Relevance.deps.json
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\bin\Debug\net6.0\Tema_Relevance.runtimeconfig.json
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\bin\Debug\net6.0\Tema_Relevance.dll
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\bin\Debug\net6.0\Tema_Relevance.pdb
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.dll
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\refint\Tema_Relevance.dll
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.pdb
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\Tema_Relevance.genruntimeconfig.cache
+C:\Users\adymi\OneDrive\Desktop\Tema Relevance\Tema_Relevance\Tema_Relevance\obj\Debug\net6.0\ref\Tema_Relevance.dll

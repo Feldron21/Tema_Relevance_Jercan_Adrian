@@ -1,0 +1,3 @@
+Majoritatea explicatiilor sunt comentate in cod.
+Ce am inteles la punctul 5 al temei e ca trebuie sa creez metode pentru a returna, respectiv a afisa valorile parametrilor ghiozdanului, dupa realizarea adaugarilor, si a raporturilor dintre aceste valori si limitele parametrilor ghiozdanului.
+Trebuie tastat numele obiectului ce se doreste a fi introdus, cu litera mica sau mare.
